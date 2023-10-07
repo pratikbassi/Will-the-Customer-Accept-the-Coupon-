@@ -1,5 +1,8 @@
 # Will the Customer Accept the Coupon?
 
+[Link to notebook here](prompt.ipynb)
+
+
 An analysis of a data set with a report detailing my findings.
 
 ## Purpose
